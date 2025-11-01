@@ -13,7 +13,7 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 🎓 **Sophomore | GPA: 3.6**  
 📘 *AP Courses:* AP CSP • AP Chemistry • AP Seminar  
 ➕ *Math:* Algebra 2 BC (2025–26)  
-📝 *PSAT:* 1170 (2025)
+📝 *PSAT:* 1350 (2025)
 
 ---
 
@@ -28,7 +28,7 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 📖 *Writer, Reviewer & Researcher* — **Nova Lit Mag** & **Write 4 Change** (2025–Present)  
 🌱 *Vice President* — **Greening Stoga Task Force** (2025–Present)  
 ☀️ *Communications Lead* — **Sunrise Movement Stoga Hub** (2025–Present)  
-⚙️ *Lead in CAD & Notebooking* — **FRC Team 10989 Blast Robotics** (2025–Present)  
+⚙️ *Lead in CAD & Notebook Team* — **FRC Team 10989 Blast Robotics** (2025–Present)  
 🎓 *BigFuture Ambassador* — **College Board** (2025–Present)
 
 ---
@@ -52,7 +52,8 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 🕹️ Gaming & Tech Exploration  
 ✍️ Writing & Journaling  
 🌍 Travel & Culture  
-🏃 Running & Fitness  
+🏃 Running & Fitness 
+🎹 Electric Keyboard 
 
 ---
 
