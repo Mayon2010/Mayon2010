@@ -29,19 +29,19 @@ I love building, designing, and collaborating to bring creative ideas to life. C
   🌱 *Vice President* — **Greening Stoga Task Force** (2025–Present)  
   ☀️ *Communications Lead* — **Sunrise Movement Stoga Hub** (2025–Present)  
   ⚙️ *Lead in CAD and Scribe for Notebook Team* — **FRC Team 10989 Blast Robotics** (2025–Present)  
-  🎓 *BigFuture Ambassador* — **College Board** (2025–Present)
-  ✨ *Secretary* - **AI Club** (2025- Present)
+  🎓 *BigFuture Ambassador* — **College Board** (2025–Present)  
+  ✨ *Secretary* — **AI Club** (2025–Present)  
 
 ---
 
 ## 🌿 Extracurriculars  
   📐 *STEMIsUs Tutor* — Geometry, Chemistry & Anatomy (2024)  
   🩺 *Asthma Awareness Presenter* — NYC Modulus Hackathon (2025)  
-  ✨ *Writing with AI Workshop* - UPenn Write4Change (2025)
+  ✨ *Writing with AI Workshop* - UPenn Write4Change (2025)  
   🏊 *YMCA Swimming* (2025–Present)  
-  🤖 *Robotics Student* (Present)
-  ➕ *Certified in CPR and First Aid* - American Red Cross Foundation (Present)
-  🎯 *Clubs:* Greening Stoga Task Force, Computer Science, Sunrise, New Grounds, Interact, Desi, AI   
+  🤖 *Robotics Student* (Present)  
+  ➕ *Certified in CPR and First Aid* - American Red Cross Foundation (Present)  
+  🎯 *Clubs:* Greening Stoga Task Force, Computer Science, Sunrise, New Grounds, Interact, Desi, AI     
 
 ---
 
@@ -55,8 +55,8 @@ I love building, designing, and collaborating to bring creative ideas to life. C
   🕹️ Gaming & Tech Exploration  
   ✍️ Writing & Journaling  
   🌍 Travel & Culture  
-  🏃 Running & Fitness 
-  🎹 Electric Keyboard 
+  🏃 Running & Fitness  
+  🎹 Electric Keyboard (2016- Present) 
 
 ---
 
