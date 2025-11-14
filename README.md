@@ -1,4 +1,4 @@
-<img width="343" height="941" alt="image" src="https://github.com/user-attachments/assets/9e8abde1-70a9-4397-8a3b-7942c2fe5c20" />## Hi there 👋
+## Hi there 👋
 📧 [Email](boltninja838@gmail.com)
 
 ---
