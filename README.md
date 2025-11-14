@@ -20,7 +20,7 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 ## 🧑‍💻 Technical Skills  
 💻 **Programming:** Python, JavaScript, HTML, C++  
 🤖 **Robotics:** Onshape CAD, FRC Design & Notebooking  
-🧰 **Tools:** VS Code, GitHub  
+🧰 **Programming Tools:** VS Code, GitHub  
 
 ---
 
@@ -28,17 +28,19 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 📖 *Writer, Reviewer & Researcher* — **Nova Lit Mag** & **Write 4 Change** (2025–Present)  
 🌱 *Vice President* — **Greening Stoga Task Force** (2025–Present)  
 ☀️ *Communications Lead* — **Sunrise Movement Stoga Hub** (2025–Present)  
-⚙️ *Lead in CAD & Notebook Team* — **FRC Team 10989 Blast Robotics** (2025–Present)  
+⚙️ *Lead in CAD and Scribe for Notebook Team* — **FRC Team 10989 Blast Robotics** (2025–Present)  
 🎓 *BigFuture Ambassador* — **College Board** (2025–Present)
+✨ *Secretary* - **AI Club** (2025- Present)
 
 ---
 
 ## 🌿 Extracurriculars  
 📐 *STEMIsUs Tutor* — Geometry, Chemistry & Anatomy (2024)  
 🩺 *Asthma Awareness Presenter* — NYC Modulus Hackathon (2025)  
+✨ *Writing with AI Workshop* - UPenn Write4Change (2025)
 🏊 *YMCA Swimming* (2025–Present)  
 🤖 *Robotics Student* (Present)  
-🎯 *Clubs:* Greening Stoga Task Force, Computer Science, Sunrise, New Grounds, Interact  
+🎯 *Clubs:* Greening Stoga Task Force, Computer Science, Sunrise, New Grounds, Interact, Desi, AI   
 
 ---
 
