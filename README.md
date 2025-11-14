@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="343" height="941" alt="image" src="https://github.com/user-attachments/assets/9e8abde1-70a9-4397-8a3b-7942c2fe5c20" />## Hi there 👋
 📧 [Email](boltninja838@gmail.com)
 
 ---
@@ -9,53 +9,54 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 ---
 
 ## 🏫 Education  
-**Conestoga Senior High School**, Berwyn, PA  
-🎓 **Sophomore | GPA: 3.6**  
-📘 *AP Courses:* AP CSP • AP Chemistry • AP Seminar  
-➕ *Math:* Algebra 2 BC (2025–26)  
-📝 *PSAT:* 1350 (2025)
+  **Conestoga Senior High School**, Berwyn, PA  
+  🎓 **Sophomore | GPA: 3.6**  
+  📘 *AP Courses:* AP CSP • AP Chemistry • AP Seminar  
+  ➕ *Math:* Algebra 2 BC (2025–26)  
+  📝 *PSAT:* 1350 (2025)
 
 ---
 
 ## 🧑‍💻 Technical Skills  
-💻 **Programming:** Python, JavaScript, HTML, C++  
-🤖 **Robotics:** Onshape CAD, FRC Design & Notebooking  
-🧰 **Programming Tools:** VS Code, GitHub  
+  💻 **Programming:** Python, JavaScript, HTML, C++  
+  🤖 **Robotics:** Onshape CAD, FRC Design & Notebooking  
+  🧰 **Programming Tools:** VS Code, GitHub  
 
 ---
 
 ## 🚀 Leadership & Roles  
-📖 *Writer, Reviewer & Researcher* — **Nova Lit Mag** & **Write 4 Change** (2025–Present)  
-🌱 *Vice President* — **Greening Stoga Task Force** (2025–Present)  
-☀️ *Communications Lead* — **Sunrise Movement Stoga Hub** (2025–Present)  
-⚙️ *Lead in CAD and Scribe for Notebook Team* — **FRC Team 10989 Blast Robotics** (2025–Present)  
-🎓 *BigFuture Ambassador* — **College Board** (2025–Present)
-✨ *Secretary* - **AI Club** (2025- Present)
+  📖 *Writer, Reviewer & Researcher* — **Nova Lit Mag** & **Write 4 Change** (2025–Present)  
+  🌱 *Vice President* — **Greening Stoga Task Force** (2025–Present)  
+  ☀️ *Communications Lead* — **Sunrise Movement Stoga Hub** (2025–Present)  
+  ⚙️ *Lead in CAD and Scribe for Notebook Team* — **FRC Team 10989 Blast Robotics** (2025–Present)  
+  🎓 *BigFuture Ambassador* — **College Board** (2025–Present)
+  ✨ *Secretary* - **AI Club** (2025- Present)
 
 ---
 
 ## 🌿 Extracurriculars  
-📐 *STEMIsUs Tutor* — Geometry, Chemistry & Anatomy (2024)  
-🩺 *Asthma Awareness Presenter* — NYC Modulus Hackathon (2025)  
-✨ *Writing with AI Workshop* - UPenn Write4Change (2025)
-🏊 *YMCA Swimming* (2025–Present)  
-🤖 *Robotics Student* (Present)  
-🎯 *Clubs:* Greening Stoga Task Force, Computer Science, Sunrise, New Grounds, Interact, Desi, AI   
+  📐 *STEMIsUs Tutor* — Geometry, Chemistry & Anatomy (2024)  
+  🩺 *Asthma Awareness Presenter* — NYC Modulus Hackathon (2025)  
+  ✨ *Writing with AI Workshop* - UPenn Write4Change (2025)
+  🏊 *YMCA Swimming* (2025–Present)  
+  🤖 *Robotics Student* (Present)
+  ➕ *Certified in CPR and First Aid* - American Red Cross Foundation (Present)
+  🎯 *Clubs:* Greening Stoga Task Force, Computer Science, Sunrise, New Grounds, Interact, Desi, AI   
 
 ---
 
 ## 🤝 Volunteering  
-🧮 STEMIsUs Tutoring (2024)  
-💬 10+ Hours — Community Service via *Interact Club*  
+  🧮 STEMIsUs Tutoring (2024)  
+  💬 10+ Hours — Community Service via *Interact Club*  
 
 ---
 
 ## 🎮 Interests  
-🕹️ Gaming & Tech Exploration  
-✍️ Writing & Journaling  
-🌍 Travel & Culture  
-🏃 Running & Fitness 
-🎹 Electric Keyboard 
+  🕹️ Gaming & Tech Exploration  
+  ✍️ Writing & Journaling  
+  🌍 Travel & Culture  
+  🏃 Running & Fitness 
+  🎹 Electric Keyboard 
 
 ---
 
