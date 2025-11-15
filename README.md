@@ -24,6 +24,15 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 
 ---
 
+## 🏅 Certifications  
+  🧰 **Onshape CAD Basics** — Certified  
+  🛠️ **Onshape CAD for Robotic Competitions** — In Progress  
+  🐍 **Python PCEP** — In Progress  
+  ⚙️ **FRC Design Learning Course** — In Progress  
+  💎 **Project Diamond Academy** — In Progress  
+
+---
+
 ## 🚀 Leadership & Roles  
   📖 *Writer, Reviewer & Researcher* — **Nova Lit Mag** & **Write 4 Change** (2025–Present)  
   🌱 *Vice President* — **Greening Stoga Task Force** (2025–Present)  
