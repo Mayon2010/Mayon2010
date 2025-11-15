@@ -1,16 +1,16 @@
-## Hello 👋
+## Hello, I am Mayon Saha 👋
 📧 [Email](boltninja838@gmail.com)
 
 ---
 
 🤖 **Motivated and tech-driven high school student** passionate about **AI, Robotics, exploration and innovation.**  
-I love building, designing, and collaborating to bring creative ideas to life. Currently exploring the fields of **engineering, sustainability, and technology** through hands-on projects, groups and leadership roles.
+I love building, designing, and collaborating to bring creative ideas to life. Currently exploring the fields of **robotic and software engineering, sustainability, and technology** through hands-on projects, groups and leadership roles.
 
 ---
 
 ## 🏫 Education  
   **Conestoga Senior High School**, Berwyn, PA  
-  🎓 **Sophomore | GPA: 3.6**  
+  🎓 **Sophomore | GPA: 3.6** (unweighted)  
   📘 *AP Courses:* AP CSP • AP Chemistry • AP Seminar  
   ➕ *Math:* Algebra 2 BC (2025–26)  
   📝 *PSAT:* 1350 (2025)
