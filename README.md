@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hello 👋
 📧 [Email](boltninja838@gmail.com)
 
 ---
 
-🤖 **Motivated and tech-driven high school student** passionate about **AI, Robotics, and innovation.**  
-I love building, designing, and collaborating to bring creative ideas to life. Currently exploring the intersection of **engineering, sustainability, and technology** through hands-on projects and leadership roles.
+🤖 **Motivated and tech-driven high school student** passionate about **AI, Robotics, exploration and innovation.**  
+I love building, designing, and collaborating to bring creative ideas to life. Currently exploring the fields of **engineering, sustainability, and technology** through hands-on projects, groups and leadership roles.
 
 ---
 
@@ -18,7 +18,7 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 ---
 
 ## 🧑‍💻 Technical Skills  
-  💻 **Programming:** Python, JavaScript, HTML, C++  
+  💻 **Programming:** Python, Java, HTML, C++  
   🤖 **Robotics:** Onshape CAD, FRC Design & Notebooking  
   🧰 **Programming Tools:** VS Code, GitHub  
 
