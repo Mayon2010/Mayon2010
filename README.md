@@ -1,5 +1,5 @@
 ## Hello, I am Mayon Saha 👋
-📧 [Email](boltninja838@gmail.com)
+📧 [Email](mayon.saha@gmail.com)
 
 ---
 
