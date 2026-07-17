@@ -11,58 +11,65 @@ I love building, designing, and collaborating to bring creative ideas to life. C
 
 ## 🏫 Education  
   **Conestoga Senior High School**, Berwyn, PA  
-  🎓 **Sophomore | GPA: 3.6** (unweighted)  
-  📘 *AP Courses:* AP CSP • AP Chemistry • AP Seminar  
-  ➕ *Math:* Algebra 2 BC (2025–26)  
+  🎓 **Junior | GPA: 3.6** (unweighted)  
+  📘 *AP Courses:* AP CSP • AP Chemistry • AP Seminar • AP CSA • AP US Government • AP Statistics 
+  ➕ *Math:* Math Analysis BC (2026–27)  
   📝 *PSAT:* 1350 (2025)
 
 ---
 
 ## 🧑‍💻 Technical Skills  
   💻 **Programming:** Python, Java, HTML, C++  
-  🤖 **Robotics:** Onshape CAD, FRC Design & Notebooking  
+  🤖 **Robotics:** Onshape CAD Design, FRC Portfolio Documentation, Arduino Microcontroller Projects, Budget & Organization Management
   🧰 **Programming Tools:** VS Code, GitHub  
 
 ---
 
 ## 🏅 Certifications  
   🧰 **Onshape CAD Basics** — Certified  
-  🛠️ **Onshape CAD for Robotic Competitions** — In Progress  
+  🛠️ **Onshape CAD for Robotic Competitions** — Certified  
   🐍 **Python PCEP** — In Progress  
-  ⚙️ **FRC Design Learning Course** — In Progress  
-  💎 **Project Diamond Academy** — In Progress  
-
+  ⚙️ **FRC Design Learning Course** — Certified  
+  🧐 **FRC Robot Inspector** — Certified  
+  ⛑️ **FRC Safety Manager** — Certified  
+  ➕ **AED, CPR & First Aid by American Red Cross Foundation** - Certified
 ---
 
 ## 🚀 Leadership & Roles  
-  📖 *Writer, Reviewer & Researcher* — **Nova Lit Mag** & **Write 4 Change** (2025–Present)  
-  🌱 *Vice President* — **Greening Stoga Task Force** (2025–Present)  
+  📖 *Writer, Reviewer & Researcher* — **Nova Lit Mag** & **Write 4 Change** (2025–2026)  
+  🌱 *Vice President* — **Greening Stoga Task Force** (2025–Present)
+  🌱 *Vice President* — **Just Green** (2026–Present) 
+  🌱 *Wildlife Category Competitor* — **Chester County Envirothon** (2026–Present) 
   ☀️ *Communications Lead* — **Sunrise Movement Stoga Hub** (2025–Present)  
-  ⚙️ *Lead in CAD and Scribe for Notebook Team* — **FRC Team 10989 Blast Robotics** (2025–Present)  
-  🎓 *BigFuture Ambassador* — **College Board** (2025–Present)  
+  🚀 *Secretary and Financial Director* - **Keystone Stem Alliance** (2025-Present)
+  ⚙️ *Director of Operations & Documentation Lead* — **FRC Team 10989 Blast Robotics** (2025–Present)  
+  🎓 *BigFuture Ambassador* — **College Board** (2025–2026)  
   ✨ *Secretary* — **AI Club** (2025–Present)  
+  🗣📢 *Content Development Co-Lead* — **TedXYouth Stoga** (2026–Present) 
 
 ---
 
-## 🌿 Extracurriculars  
+## 🌿 Other Extracurriculars  
   📐 *STEMIsUs Tutor* — Geometry, Chemistry & Anatomy (2024)  
   🩺 *Asthma Awareness Presenter* — NYC Modulus Hackathon (2025)  
   ✨ *Writing with AI Workshop* - UPenn Write4Change (2025)  
+  ✨ *Research Fellow* - UPenn Write4Change (2026) 
   🏊 *YMCA Swimming* (2025–Present)  
   🤖 *Robotics Student* (Present)  
-  ➕ *Certified in CPR and First Aid* - American Red Cross Foundation (Present)  
-  🎯 *Clubs:* Greening Stoga Task Force, Computer Science, Sunrise, New Grounds, Interact, Desi, AI     
+  🎯 *Clubs:* Greening Stoga Task Force, Computer Science, Sunrise, New Grounds, Just Green, Desi, AI     
 
 ---
 
 ## 🤝 Volunteering  
   🧮 STEMIsUs Tutoring (2024)  
   💬 10+ Hours — Community Service via *Interact Club*  
+  💬 20+ Hours — Community Service via *New Grounds*  
+  🤖 50+ Hours — Community Service via *Keystone Stem Alliance*  
 
 ---
 
 ## 🎮 Interests  
-  🕹️ Gaming & Tech Exploration  
+  🕹️ Gaming & Technology Exploration  
   ✍️ Writing & Journaling  
   🌍 Travel & Culture  
   🏃 Running & Fitness  
